@@ -9,7 +9,16 @@ import math
 import warnings
 import ccxt
 import logging
-
+"""
+EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD
+IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN. EN NINGÚN CASO
+AUTORES NI LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN
+RESPONSABILIDAD, YA SEA CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, DERIVADA DE,
+DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS OPERACIONES CON EL
+SOFTWARE.
+"""
+"""Este programa es su completa responsabilidad, cuide sus llaves API, el programa actual solo tendrá conexión con los servidores de Bitso, nadie se hará responsable de un mal uso ni es una recomendación de inversión, Bitso Internacional no creó, no revisó ni aprueba este programa, mismo hecho únicamente con fines educativos.\nUtilice este programa con cautela."""
 # IMPORTAMOS pandas_ta ÚNICAMENTE PARA RSI, MFI, EMA, ETC.
 # Si lo deseas, puedes quitarlo y hacer tus propios cálculos
 import pandas_ta as pta
