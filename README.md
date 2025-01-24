@@ -21,7 +21,7 @@ Una aplicación de código abierto para ejecutar estrategias de trading automati
 1. **Configura y ejecuta el script principal**:
    - Navega al directorio del proyecto y ejecuta el script:
      ```bash
-     python <nombre_del_script>.py
+     python b3.py
      ```
 2. Abre tu navegador y ve a `http://127.0.0.1:8050/`.
 
