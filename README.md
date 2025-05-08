@@ -1,4 +1,4 @@
-# Trading Bot con ccxt y Dash
+# (NO SIRVE, NUEVO EN DESAROLLO)
 
 Una aplicación de código abierto para ejecutar estrategias de trading automatizadas utilizando Dash y ccxt. Este bot interactúa con el exchange Bitso y proporciona un dashboard interactivo para visualizar datos y resultados en tiempo real.
 ---
